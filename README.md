@@ -1,0 +1,1 @@
+A straightforward Android app that lists movies playing in the three theaters nearest you. Built in response to widespread frustration with Fandango’s bloated mobile UI. Adheres to Google’s Material Design Guidelines and utilizes a web scraper to access Fandango theater location and showtime data.
